@@ -97,33 +97,6 @@ footer {
 }
 
 
-/* タブレット向けレイアウト */
-@media screen and (max-width: 1024px) {
-  header {
-    width: 100%;
-  }
-
-  .blog {
-    width: 90%;
-    display: block;
-  }
-
-  .blog-box1 {
-    width: 100%;
-    margin-bottom: 20px;
-  }
-
-  .blog-box2 {
-    width: 100%;
-    margin:0 auto 20px auto;
-  }
-
-  .blog-box3 {
-    width: 100%;
-    margin: 0 auto;
-  }
-}
-
 /* タブレット縦向けレイアウト */
 @media screen and (max-width: 768px) {
   header {
